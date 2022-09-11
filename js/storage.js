@@ -24,3 +24,17 @@ document.getElementById('btn-remove-age').addEventListener('click', function(){
 document.getElementById('btn-clear-LS').addEventListener('click', function(){
     localStorage.clear();
 })
+
+localStorage.clear
+localStorage.getItem
+localStorage.key
+localStorage.length
+localStorage.removeItem
+localStorage.setItem
+
+sessionStorage.clear
+sessionStorage.getItem
+sessionStorage.key
+sessionStorage.length
+sessionStorage.removeItem
+sessionStorage.setItem
